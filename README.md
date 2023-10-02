@@ -43,4 +43,8 @@ Follow these instructions to get a copy of the project up and running on your lo
    Use npm to install the project's dependencies. This command will download and install all the necessary packages listed in the project's package.json file:
    ```bash
    npm install
+3. Start the Development Server:
+   Run the following command to start the development server:
+   ```bash
+   npm start
 
