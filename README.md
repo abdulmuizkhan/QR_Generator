@@ -17,7 +17,7 @@ This is a simple web application built with React that allows users to generate 
 
 ## Demo
 
-You can try out the live demo of the QR code generator here: [QR Code Generator Demo](https://your-username.github.io/qr-code-generator)
+You can try out the live demo of the QR code generator here: [QR Code Generator Demo](https://abdulmuizkhan.github.io/QR_Generator/)
 
 ## Screenshots
 
